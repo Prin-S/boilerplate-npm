@@ -10,5 +10,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "Prin S",
+	"description": "A test project to learn NPM",
+	"keywords": ["freecodecamp", "javascript", "back end", "node", "npm"],
+	"license": "MIT",
+	"version": "1.0.0"
 }
